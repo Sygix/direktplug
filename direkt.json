@@ -1,7 +1,7 @@
 {
     "room": "DirektServ - Sallon Officiel",
     "author": "Sygix",
-    "icon": null,
+    "icon": "http://image.noelshack.com/fichiers/2016/11/1458396030-server-icon.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
